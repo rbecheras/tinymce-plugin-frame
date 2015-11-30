@@ -17,4 +17,10 @@ tinymce.PluginManager.add('frame', function(editor) {
    * Write your plugin code here
    */
 
+	// try to implement theses behaviors to frames:
+	// https://jqueryui.com/resizable/
+	// https://jqueryui.com/draggable/
+	// https://api.jqueryui.com/resizable/
+	// https://api.jqueryui.com/draggable/
+
 });
